@@ -1,0 +1,16 @@
+.menu {
+    width: 800px;
+}
+
+.menu__list {
+    padding-left: 80px;
+}
+
+.menu__item {
+    float: left;    
+}
+
+.menu__link {
+    color: #215a9cee;
+    text-decoration: none;
+}
